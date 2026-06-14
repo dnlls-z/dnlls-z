@@ -2,78 +2,41 @@
 
 I'm a Neuroscience undergraduate passionate about Data Science, Machine Learning, and building data-driven solutions.
 
-I enjoy transforming raw data into meaningful insights through analysis, automation, and predictive modeling. My work combines scientific research, biomedical data analysis, and software development, with a strong focus on extracting value from complex datasets and creating reproducible workflows.
+## About Me
 
-Currently, I work on machine learning applications for medical imaging, large-scale biomedical data processing, and brain connectivity analysis using diffusion MRI.
+I enjoy transforming raw data into meaningful insights through analysis, automation, and predictive modeling. Throughout my academic and research experience, I have worked on projects involving biomedical data, medical imaging, and software development, always with the goal of extracting useful information from complex datasets and creating efficient, reproducible workflows.
 
-## What I enjoy working on
+## What I Do
 
-* Data Science & Analytics
-* Machine Learning & Deep Learning
-* Data Processing Pipelines
-* Data Visualization
+My current work focuses on applying machine learning to diffusion MRI, where I develop and optimize deep learning models for image super-resolution. This involves data preparation, dataset generation, model training, evaluation, and performance optimization using quantitative metrics.
+
+I have also worked on brain connectivity analysis using neuroimaging data, developing automated pipelines for data processing, validation, quality control, tractography, and extraction of quantitative metrics from large biomedical datasets.
+
+Beyond research, I enjoy building software that solves real-world problems. I have developed applications for clinical data management, automated reporting, and digitalization of clinical workflows, helping professionals organize and make better use of their data.
+
+## Areas of Interest
+
+* Data Science and Analytics
+* Machine Learning and Deep Learning
 * Biomedical Data Analysis
-* Process Automation
+* Data Processing Pipelines
 * Scientific Computing
-
-## Featured Projects
-
-### Diffusion MRI Super-Resolution
-
-Developed and optimized deep learning models for diffusion MRI super-resolution. Designed automated pipelines for data preparation, model training, evaluation, and performance optimization using quantitative metrics such as SSIM, PSNR, MSE, and NRMSE.
-
-### Brain Connectivity Analysis
-
-Processed and analyzed large-scale neuroimaging datasets to investigate structural brain connectivity. Developed reproducible workflows for data validation, tractography analysis, quality control, and extraction of quantitative connectivity metrics.
-
-### ADOS-2 Clinical Data Automation
-
-Designed a Python application for capturing, validating, and structuring clinical assessment data. Automated report generation and standardized data collection workflows, improving data quality and reducing manual processing.
-
-### Sonnenblume
-
-Developed a clinical data management platform for patient tracking, clinimetric assessments, longitudinal analysis, and automated reporting. Built tools for organizing and analyzing clinical information to support data-driven decision making in a real-world healthcare setting.
+* Process Automation
 
 ## Technologies
 
-### Data Science & Analytics
+**Languages:** Python, SQL, Bash
 
-* Python
-* SQL
-* Pandas
-* NumPy
-* Power BI
-* Tableau
+**Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Power BI, Tableau
 
-### Machine Learning
+**Scientific & Neuroimaging Tools:** MRtrix3, FSL, FreeSurfer, ANTs
 
-* TensorFlow
-* Scikit-Learn
+**Development Tools:** Git, Linux, Jupyter Notebook
 
-### Scientific Computing & Neuroimaging
+## Currently Learning
 
-* MRtrix3
-* FSL
-* FreeSurfer
-* ANTs
-
-### Development & Automation
-
-* Bash
-* Git
-* Linux
-* Jupyter Notebook
-
-## Current Focus
-
-* Machine Learning for Medical Imaging
-* Data Analysis of Biomedical Datasets
-* Reproducible Data Pipelines
-* Scientific Software Development
-* Process Automation
+I'm always looking for opportunities to deepen my knowledge in data science, machine learning, and software development while exploring new ways to extract value from complex datasets.
 
 ## Beyond Data
 
-Outside of data science, I enjoy reading, practicing MMA, playing drums, and continuously learning new skills and technologies.
-
-I'm always interested in opportunities where data can be used to solve meaningful real-world problems.
+Outside of technology, I enjoy reading, practicing MMA, playing drums, and working on personal projects that challenge me to learn something new.
