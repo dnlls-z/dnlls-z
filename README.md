@@ -18,19 +18,19 @@ Currently, I work on deep learning models for diffusion MRI super-resolution and
 
 ## Featured Projects
 
-### 🧠 Diffusion MRI Super-Resolution
+### Diffusion MRI Super-Resolution
 
 Developed and optimized deep learning models to improve the spatial resolution of diffusion MRI images. Built automated pipelines for data preparation, training, evaluation, and experiment management.
 
-### 🔬 Brain Connectivity Analysis
+### Brain Connectivity Analysis
 
 Designed automated neuroimaging workflows using Python, Bash, MRtrix3, FSL, FreeSurfer, and ANTs to investigate structural brain connectivity through diffusion MRI data.
 
-### 📋 ADOS-2 Report Automation
+### ADOS-2 Report Automation
 
 Identified an opportunity to optimize the generation of ADOS-2 neuropsychological reports and developed a software solution that automated previously manual clinical workflows.
 
-### 🌻 Sonnenblume
+### Sonnenblume
 
 Designed and developed a Python application for patient management, clinical data organization, automated report generation, and longitudinal analysis of psychological assessments. The software is currently used in a professional clinical setting.
 
