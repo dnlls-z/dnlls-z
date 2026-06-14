@@ -1,5 +1,9 @@
 # Hi, I'm Carolina 👋
 
+<p align="center">
+  <img src="assets/gh_banner.jpg" alt="Banner" width="100%">
+</p>
+
 I'm a Neuroscience undergraduate passionate about Data Science, Machine Learning, and building data-driven solutions.
 
 ## About Me
