@@ -1,75 +1,79 @@
 # Hi, I'm Carolina 👋
 
-I'm a Neuroscience undergraduate at UNAM with a strong interest in Data Science, Machine Learning, and Software Development.
+I'm a Neuroscience undergraduate passionate about Data Science, Machine Learning, and building data-driven solutions.
 
-I enjoy solving complex problems through programming, data analysis, and automation. My work combines neuroscience, medical imaging, and software engineering, with a focus on building practical solutions that transform data into useful insights.
+I enjoy transforming raw data into meaningful insights through analysis, automation, and predictive modeling. My work combines scientific research, biomedical data analysis, and software development, with a strong focus on extracting value from complex datasets and creating reproducible workflows.
 
-Currently, I work on deep learning models for diffusion MRI super-resolution and brain connectivity analysis, developing reproducible pipelines for biomedical data processing and machine learning research.
+Currently, I work on machine learning applications for medical imaging, large-scale biomedical data processing, and brain connectivity analysis using diffusion MRI.
 
 ## What I enjoy working on
 
+* Data Science & Analytics
 * Machine Learning & Deep Learning
-* Data Analysis & Visualization
-* Medical Imaging & Neuroimaging
-* Scientific Programming
+* Data Processing Pipelines
+* Data Visualization
+* Biomedical Data Analysis
 * Process Automation
-* Software Development
-* Research and Experimental Design
+* Scientific Computing
 
 ## Featured Projects
 
 ### Diffusion MRI Super-Resolution
 
-Developed and optimized deep learning models to improve the spatial resolution of diffusion MRI images. Built automated pipelines for data preparation, training, evaluation, and experiment management.
+Developed and optimized deep learning models for diffusion MRI super-resolution. Designed automated pipelines for data preparation, model training, evaluation, and performance optimization using quantitative metrics such as SSIM, PSNR, MSE, and NRMSE.
 
 ### Brain Connectivity Analysis
 
-Designed automated neuroimaging workflows using Python, Bash, MRtrix3, FSL, FreeSurfer, and ANTs to investigate structural brain connectivity through diffusion MRI data.
+Processed and analyzed large-scale neuroimaging datasets to investigate structural brain connectivity. Developed reproducible workflows for data validation, tractography analysis, quality control, and extraction of quantitative connectivity metrics.
 
-### ADOS-2 Report Automation
+### ADOS-2 Clinical Data Automation
 
-Identified an opportunity to optimize the generation of ADOS-2 neuropsychological reports and developed a software solution that automated previously manual clinical workflows.
+Designed a Python application for capturing, validating, and structuring clinical assessment data. Automated report generation and standardized data collection workflows, improving data quality and reducing manual processing.
 
 ### Sonnenblume
 
-Designed and developed a Python application for patient management, clinical data organization, automated report generation, and longitudinal analysis of psychological assessments. The software is currently used in a professional clinical setting.
+Developed a clinical data management platform for patient tracking, clinimetric assessments, longitudinal analysis, and automated reporting. Built tools for organizing and analyzing clinical information to support data-driven decision making in a real-world healthcare setting.
 
 ## Technologies
 
-**Languages**
+### Data Science & Analytics
 
 * Python
 * SQL
-* Bash
-* R
-
-**Machine Learning**
-
-* TensorFlow
-* Scikit-Learn
-
-**Data Science**
-
 * Pandas
 * NumPy
 * Power BI
 * Tableau
 
-**Scientific & Neuroimaging Tools**
+### Machine Learning
+
+* TensorFlow
+* Scikit-Learn
+
+### Scientific Computing & Neuroimaging
 
 * MRtrix3
 * FSL
 * FreeSurfer
 * ANTs
 
-**Development Tools**
+### Development & Automation
 
+* Bash
 * Git
 * Linux
 * Jupyter Notebook
 
-## Beyond Coding
+## Current Focus
 
-Outside of technology and research, I enjoy reading, practicing MMA, playing drums, and working on personal projects that challenge me to learn something new.
+* Machine Learning for Medical Imaging
+* Data Analysis of Biomedical Datasets
+* Reproducible Data Pipelines
+* Scientific Software Development
+* Process Automation
 
-I am always looking for opportunities to learn, collaborate, and build meaningful solutions.
+## Beyond Data
+
+Outside of data science, I enjoy reading, practicing MMA, playing drums, and continuously learning new skills and technologies.
+
+I'm always interested in opportunities where data can be used to solve meaningful real-world problems.
